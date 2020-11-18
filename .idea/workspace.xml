@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41f28c44-30e0-4082-93ce-a01140be6e74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJ9T6z3tSBYhNJS6clCyEQ2yzv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/keylogger.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="keylogger" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Keylogger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lataw\PycharmProjects\Keylogger\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keylogger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41f28c44-30e0-4082-93ce-a01140be6e74" name="Default Changelist" comment="" />
+      <created>1584546335170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584546335170</updated>
+      <workItem from="1584546337756" duration="52000" />
+      <workItem from="1584546431214" duration="1614000" />
+      <workItem from="1584548058647" duration="356000" />
+      <workItem from="1584787188526" duration="4000" />
+      <workItem from="1584955558026" duration="3624000" />
+      <workItem from="1584964862420" duration="124000" />
+      <workItem from="1584964999933" duration="2919000" />
+      <workItem from="1584968138804" duration="1283000" />
+      <workItem from="1584969868757" duration="1228000" />
+      <workItem from="1585339870311" duration="1387000" />
+      <workItem from="1585341379167" duration="417000" />
+      <workItem from="1585342498898" duration="489000" />
+      <workItem from="1585391390036" duration="67000" />
+      <workItem from="1585391759047" duration="154000" />
+      <workItem from="1585392020439" duration="122000" />
+      <workItem from="1585392222954" duration="362000" />
+      <workItem from="1585392915448" duration="65000" />
+      <workItem from="1585403087258" duration="2000" />
+      <workItem from="1585403844683" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584546619294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584546619294" />
+    <state x="535" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584967103546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584967103546" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584968293553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584968293553" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1584546618045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584546618045" />
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1585392979880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585392979880" />
+    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1585392979880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585392979880" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1585392979880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585392979880" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1585392979880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585392979880" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1584957828252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584957828252" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585403844246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585403844246" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Keylogger$Keylogger.coverage" NAME="keylogger Coverage Results" MODIFIED="1584548020651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Keylogger$keylogger.coverage" NAME="keylogger Coverage Results" MODIFIED="1585392924806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
